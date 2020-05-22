@@ -9,7 +9,7 @@
     "version": "0.0.1",
     "repository": {
         "type": "git",
-        "url": "git://github.com/c9/vfs-shell-interop.git"
+        "url": "git://github.com/c9open/vfs-shell-interop.git"
     },
     "main": "./interop.js",
     "dependencies": {
